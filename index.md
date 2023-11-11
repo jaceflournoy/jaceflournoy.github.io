@@ -49,7 +49,3 @@ Have questions or need guidance? Reach out to us on social media or via our cont
 - [Contact Us](/contact.md)
 - [Follow us on Twitter](https://twitter.com/yourtwitterhandle)
 - [Connect on LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
-
----
-
-This structure provides a comprehensive overview of what users can expect from your website. It's important to ensure that all links (e.g., `/beginner.md`, `/resources.md`) lead to the appropriate Markdown files or external URLs. This home page should engage, inform, and guide visitors effectively, creating a welcoming and resourceful environment for your cybersecurity mentorship program.
