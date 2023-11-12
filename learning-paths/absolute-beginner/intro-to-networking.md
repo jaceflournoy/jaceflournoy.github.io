@@ -12,6 +12,9 @@ Networking in the context of computers refers to the practice of connecting comp
 - **Wide Area Network (WAN):** A network that covers a large geographical area, often connecting multiple LANs.
 - **Wireless Local Area Network (WLAN):** A LAN based on wireless (Wi-Fi) networking technology.
 
+#### Additional Resources
+- [11 Types of Computer Networks Explained](https://www.indeed.com/career-advice/career-development/types-of-networks)
+
 ## Key Components of a Network
 ### Network Interface Cards (NICs)
 - **Function:** Allows computers to connect and communicate over a network.
@@ -20,6 +23,9 @@ Networking in the context of computers refers to the practice of connecting comp
 ### Switches and Routers
 - **Switches:** Devices that connect and manage communication between multiple devices on a LAN.
 - **Routers:** Devices that route data between different networks (e.g., between a LAN and the Internet).
+
+#### Additional Resources
+- [What is a Switch vs a Router?](https://www.indeed.com/career-advice/career-development/types-of-networks)
 
 ### Cables and Connectors
 - **Ethernet Cables:** Used to connect devices within a LAN (e.g., Cat5e, Cat6).
@@ -37,11 +43,17 @@ Networking in the context of computers refers to the practice of connecting comp
 - **HTTP/HTTPS:** Protocols used for transmitting web pages over the Internet.
 - **SMTP, POP3, IMAP:** Protocols used for sending and receiving email.
 
+#### Additional Resources
+- [Types of Internet Protocols](https://www.geeksforgeeks.org/types-of-internet-protocols/#)
+
 ## Network Topologies
 ### Common Network Topologies
 - **Star Topology:** All nodes are connected to a central switch or hub.
 - **Bus Topology:** All nodes are connected to a single communication line.
 - **Ring Topology:** Each node is connected to exactly two other nodes, forming a ring.
+
+#### Additional Resources
+- [7 Network Topology Types](https://www.indeed.com/career-advice/starting-new-job/network-topology-types)
 
 ## Network Security
 ### Importance of Security in Networking
