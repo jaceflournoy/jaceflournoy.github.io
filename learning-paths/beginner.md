@@ -1,3 +1,6 @@
+# [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
+
+
 # Beginner's Path in Cybersecurity
 
 Welcome to the Beginner's Path in Cybersecurity. This guide is crafted for individuals who have fundamental computer knowledge and are eager to explore the realm of cybersecurity. Here, we outline a structured approach to advance your skills and prepare you for an entry-level role in the field.
