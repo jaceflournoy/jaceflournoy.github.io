@@ -13,8 +13,7 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
   - Basic Software Concepts: Operating Systems, Applications
 
 ### Additional Resources
-- [Introduction to Computers](https://www.computerbasics.com/)
-- [Basic Computer Skills Course](https://www.gcflearnfree.org/computerbasics/)
+- [Basic Computer Skills Course](https://www.youtube.com/playlist?list=PL4316FC411AD077AA)
 
 ## Module 2: [Introduction to the Internet](/learning-paths/absolute-beginner/intro-to-internet.html)
 
@@ -26,8 +25,8 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
   - Internet Safety Basics
 
 ### Additional Resources
-- [Internet 101](https://www.digitalunite.com/technology-guides/internet-basics)
-- [Web Browsing Basics](https://edu.gcfglobal.org/en/internetbasics/)
+- [Internet 101](https://www.lifewire.com/internet-101-beginners-quick-reference-guide-2483357)
+- [Web Browsing Basics](https://www.youtube.com/playlist?list=PLpQQipWcxwt9qeniFKxjpVhk77b4Pfe8s)
 
 ## Module 3: [Basic Cybersecurity Concepts](/learning-paths/absolute-beginner/intro-cybersecurity-concepts.html)
 
@@ -40,7 +39,7 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
 
 ### Additional Resources
 - [Cybersecurity Basics](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)
-- [Beginner’s Guide to Cybersecurity](https://www.cyberdegrees.org/resources/beginners-guide/)
+- [Cybersecurity: An Introduction & Beginner's Guide](https://www.splunk.com/en_us/blog/learn/cybersecurity.html)
 
 ## Module 4: [Safe Computing Practices](/learning-paths/absolute-beginner/safe-computing-practices.html)
 
@@ -53,7 +52,7 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
 
 ### Additional Resources
 - [Safe Online Habits](https://staysafeonline.org/stay-safe-online/)
-- [Password Security Basics](https://www.lastpass.com/password-basics)
+- [Password Security Basics](https://www.lastpass.com/resources/learning/password-101)
 
 ## Module 5: [Introduction to Networking](/learning-paths/absolute-beginner/intro-to-networking.html)
 
@@ -66,7 +65,7 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
 
 ### Additional Resources
 - [Networking Basics](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/networking-basics.html)
-- [Beginner's Guide to Networking](https://www.techopedia.com/2/28228/networks/networking-for-beginners)
+- [Basics of Computer Networking](https://www.geeksforgeeks.org/basics-computer-networking/#)
 
 ## Conclusion and Next Steps
 
