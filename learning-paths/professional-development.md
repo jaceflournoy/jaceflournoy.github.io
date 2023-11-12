@@ -1,7 +1,3 @@
-## [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
-<br />
-<br />
-
 # Professional Development in Cybersecurity
 
 Welcome to the Professional Development Path in Cybersecurity. This guide is designed for seasoned cybersecurity professionals who are seeking to enhance their expertise, keep up with evolving trends, and develop leadership and management skills in the field.

@@ -1,7 +1,3 @@
-## [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
-<br />
-<br />
-
 # Cybersecurity Learning Paths
 
 Embarking on a journey in cybersecurity can be exciting and challenging. To cater to learners of all levels, we've designed tailored learning paths. Each path guides you through the stages of learning and skill development necessary for a career in cybersecurity. Choose the path that aligns with your current knowledge and goals.

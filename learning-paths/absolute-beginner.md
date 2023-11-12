@@ -1,7 +1,3 @@
-## [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
-<br />
-<br />
-
 # Absolute Beginner's Path to Cybersecurity
 
 Welcome to the Absolute Beginner's Path in Cybersecurity. This guide is tailored for individuals who are new to the field, providing a step-by-step pathway to gaining the foundational knowledge and skills required for an entry-level role in cybersecurity.

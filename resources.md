@@ -1,7 +1,3 @@
-## [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
-<br />
-<br />
-
 # Cybersecurity Resources
 
 Welcome to our comprehensive resource library. Here, you will find a curated list of resources that include educational materials, tools, and communities, essential for anyone starting or advancing their career in cybersecurity.

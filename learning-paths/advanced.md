@@ -1,7 +1,3 @@
-## [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
-<br />
-<br />
-
 # Advanced Path in Cybersecurity
 
 Welcome to the Advanced Path in Cybersecurity. This guide is tailored for individuals with a strong foundation in cybersecurity who are seeking to specialize and deepen their expertise in specific domains. This path is ideal for those aspiring to roles that require specialized knowledge and skills.

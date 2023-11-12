@@ -1,7 +1,3 @@
-## [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
-<br />
-<br />
-
 # Intermediate Path in Cybersecurity
 
 Welcome to the Intermediate Path in Cybersecurity. This guide is designed for individuals who have a foundational understanding of IT and cybersecurity and are looking to expand their knowledge and skills to prepare for entry-level cybersecurity roles.
