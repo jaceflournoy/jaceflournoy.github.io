@@ -16,7 +16,7 @@ We're a team of experienced cybersecurity professionals passionate about sharing
   - [Explore Resources](/resources.md)
 
 - **Community Support**: Join our community forums where you can discuss cybersecurity topics, ask questions, and connect with peers and mentors.
-  - [Join the Discussion](/community.md)
+  - [Join the Discussion](https://discord.gg/e8DVGwACn8)
 
 - **Career Guidance**: Tips and advice on building a successful career in cybersecurity, including resume building, interview preparation, and job search strategies.
   - [Career Advice](/career-advice.md)
