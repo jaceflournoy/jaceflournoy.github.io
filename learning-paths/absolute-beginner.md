@@ -70,7 +70,7 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
 
 ## Conclusion and Next Steps
 
-Congratulations on completing the Absolute Beginner Learning Path in Cybersecurity! You now have a solid foundation to build upon. We encourage you to explore more advanced topics and continue your learning journey.
+Congratulations on completing the Absolute Beginner Learning Path in Cybersecurity! You now have a solid foundation to build upon. We encourage you to explore more advanced topics and continue your learning journey. You are now ready to move on to the next path: [Beginner](/learning-paths/beginner.md)
 
 If you would like to dive deeper into these topics, we suggest learning the material covered by the [CompTIA A+](https://www.comptia.org/certifications/a) and [CompTIA Network+](https://www.comptia.org/certifications/network) exams. These will give you a very solid foundation on the basics and get you prepared to tackle the Security+. (Note: Acquiring these certifications is not mandatory to take/pass the Security+)
 
