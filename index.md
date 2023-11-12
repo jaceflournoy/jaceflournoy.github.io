@@ -1,8 +1,6 @@
 
 # [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
 
-# Welcome to the Cybersecurity Mentorship Hub
-
 ## Empowering Your Cybersecurity Journey
 
 Welcome to our Cybersecurity Mentorship Hub, a dedicated platform for aspiring cybersecurity professionals. Our mission is to guide, educate, and empower individuals who are entering the field of cybersecurity. Whether you're an absolute beginner or looking to advance your skills, our resources are tailored to suit various levels of expertise.
