@@ -1,86 +1,77 @@
-# Absolute Beginner's Path to Cybersecurity
+# Absolute Beginner Learning Path in Cybersecurity
 
-Welcome to the Absolute Beginner's Path in Cybersecurity. This guide is tailored for individuals who are new to the field, providing a step-by-step pathway to gaining the foundational knowledge and skills required for an entry-level role in cybersecurity.
+## Introduction
+Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is tailored for individuals who are new to computers and cybersecurity. Our goal is to equip you with fundamental knowledge and skills to embark on your cybersecurity journey.
 
-## Understanding the Basics of Computers and Networking
+## Module 1: [Introduction to Computers](/absolute-beginner/intro-to-computers.html)
 
-Before diving into cybersecurity, it's essential to have a solid understanding of computer systems and networks.
+### Overview
+- **Objective:** Understand basic computer operations and components.
+- **Topics Covered:**
+  - What is a Computer?
+  - Components of a Computer: CPU, Memory, Storage, Input/Output Devices
+  - Basic Software Concepts: Operating Systems, Applications
 
-- **Basic Computer Skills**:
-  - Learn about operating systems, file systems, and basic computer operations.
-  - Resources:
-    - [GCFLearnFree.org: Computer Basics](https://edu.gcfglobal.org/en/topics/computerbasics/)
-    - [Coursera: Computer Science 101](https://www.coursera.org/specializations/computer-fundamentals)
+### External Resources
+- [Introduction to Computers](https://www.computerbasics.com/)
+- [Basic Computer Skills Course](https://www.gcflearnfree.org/computerbasics/)
 
-- **Introduction to Networking**:
-  - Understand how networks work, including the internet, LAN, WAN, and basic network protocols.
-  - Resources:
-    - [Cisco Networking Basics Specialization](https://www.coursera.org/specializations/networking-basics)
-    - [Khan Academy: Internet 101](https://www.khanacademy.org/computing/computer-science/internet-intro)
+## Module 2: Introduction to the Internet
 
-## Fundamentals of Cybersecurity
+### Overview
+- **Objective:** Learn about the internet, web browsing, and basic digital literacy.
+- **Topics Covered:**
+  - Understanding the Internet and World Wide Web
+  - Web Browsers: What They Are and How to Use Them
+  - Internet Safety Basics
 
-Learn the foundational concepts of cybersecurity to understand the importance of protecting information and systems.
+### External Resources
+- [Internet 101](https://www.digitalunite.com/technology-guides/internet-basics)
+- [Web Browsing Basics](https://edu.gcfglobal.org/en/internetbasics/)
 
-- **Cybersecurity Basics**:
-  - Cover the principles of cybersecurity, common threats, and basic security measures.
-  - Resources:
-    - [Cybrary: Introduction to IT & Cybersecurity](https://www.cybrary.it/course/intro-to-infosec/)
-    - [edX: Introduction to Cybersecurity](https://www.edx.org/course/introduction-to-cybersecurity)
+## Module 3: Basic Cybersecurity Concepts
 
-- **Understanding Malware and Threats**:
-  - Get familiar with different types of malware and common cyber threats.
-  - Resources:
-    - [Coursera: IT Security: Defense against the digital dark arts](https://www.coursera.org/learn/it-security)
+### Overview
+- **Objective:** Grasp fundamental cybersecurity principles and why they are important.
+- **Topics Covered:**
+  - What is Cybersecurity?
+  - Common Cyber Threats and Attacks
+  - The Importance of Cybersecurity
 
-## Basic Security Practices and Tools
+### External Resources
+- [Cybersecurity Basics](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)
+- [Beginner’s Guide to Cybersecurity](https://www.cyberdegrees.org/resources/beginners-guide/)
 
-Start with basic security measures and tools that can protect against common cyber threats.
+## Module 4: Safe Computing Practices
 
-- **Personal Cybersecurity**:
-  - Learn about securing personal devices, creating strong passwords, and understanding the basics of encryption.
-  - Resources:
-    - [Norton: How to Secure Your Computer](https://us.norton.com/internetsecurity-how-to-how-to-secure-your-computer.html)
-    - [LastPass: Guide to Stronger Passwords](https://www.lastpass.com/features/password-generator)
+### Overview
+- **Objective:** Learn best practices for staying safe online.
+- **Topics Covered:**
+  - Creating Strong Passwords
+  - Recognizing and Avoiding Phishing Attacks
+  - Keeping Software Updated
 
-- **Basic Security Tools**:
-  - Introduction to antivirus software, firewalls, and VPNs.
-  - Resources:
-    - [AVG: Beginner’s Guide to Using a Firewall](https://www.avg.com/en/signal/what-is-a-firewall)
-    - [TechRadar: Best Free Antivirus Software](https://www.techradar.com/best/best-free-antivirus)
+### External Resources
+- [Safe Online Habits](https://staysafeonline.org/stay-safe-online/)
+- [Password Security Basics](https://www.lastpass.com/password-basics)
 
-## Introduction to Ethical Hacking and Penetration Testing
+## Module 5: Introduction to Networking
 
-Although advanced, a basic understanding of ethical hacking can provide insight into the cybersecurity landscape.
+### Overview
+- **Objective:** Understand basic networking concepts and their role in cybersecurity.
+- **Topics Covered:**
+  - What is a Network?
+  - Types of Networks: LAN, WAN, Internet
+  - Basic Networking Devices and their Functions
 
-- **Basics of Ethical Hacking**:
-  - Learn what ethical hacking involves and the basics of penetration testing.
-  - Resources:
-    - [Udemy: Ethical Hacking for Absolute Beginners](https://www.udemy.com/course/hacking-for-beginners/)
-    - [Cyber Aces: Foundations of Cybersecurity](https://www.cyberaces.org/courses/foundations/)
+### External Resources
+- [Networking Basics](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/networking-basics.html)
+- [Beginner's Guide to Networking](https://www.techopedia.com/2/28228/networks/networking-for-beginners)
 
-## Staying Informed and Engaged
+## Conclusion and Next Steps
 
-Cybersecurity is an ever-evolving field. Stay informed about the latest trends and threats.
+Congratulations on completing the Absolute Beginner Learning Path in Cybersecurity! You now have a solid foundation to build upon. We encourage you to explore more advanced topics and continue your learning journey.
 
-- **Follow Cybersecurity Blogs and News Sites**:
-  - Regularly read articles and news to stay updated with the latest in the field.
-  - Recommended Blogs:
-    - [Krebs on Security](https://krebsonsecurity.com/)
-    - [The Hacker News](https://thehackernews.com/)
+---
 
-## Preparing for an Entry-Level Role
-
-As you build your foundational knowledge, start preparing for entry-level roles in cybersecurity.
-
-- **Understanding Job Roles and Requirements**:
-  - Research what entry-level roles entail and the skills required.
-  - Resources:
-    - [CyberSeek: Cybersecurity Career Pathway](https://www.cyberseek.org/pathway.html)
-    - [Indeed: Entry-Level Cybersecurity Jobs](https://www.indeed.com/q-Entry-Level-Cyber-Security-jobs.html)
-
-- **Resume Building and Interview Preparation**:
-  - Learn how to build a cybersecurity-focused resume and prepare for job interviews.
-  - Resources:
-    - [Zety: Cybersecurity Resume Example](https://zety.com/blog/cyber-security-resume-example)
-    - [Glassdoor: Cybersecurity Interview Questions](https://www.glassdoor.com/Interview/cyber-security-interview-questions-SRCH_KO0,14.htm)
+Remember, cybersecurity is an ever-evolving field, and continuous learning is key to staying informed and protected. Good luck!
