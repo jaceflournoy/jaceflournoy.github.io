@@ -10,9 +10,7 @@ We're a team of experienced cybersecurity professionals passionate about sharing
 ### What You'll Find Here
 
 - **In-Depth Learning Paths**: Customized learning paths to guide your educational journey. From foundational concepts to advanced techniques, we cover it all.
-  - [Beginner's Path](/learning-paths/beginner.md): Start your journey here if you're new to computers and cybersecurity.
-  - [Intermediate Path](/learning-paths/intermediate.md): Enhance your skills and knowledge if you have some background in IT or cybersecurity.
-  - [Advanced Path](/learning-paths/advanced.md): Dive deeper into specialized areas of cybersecurity.
+  - [Explore Learning Paths](/learning-paths.md)
 
 - **Extensive Resource Library**: A curated collection of resources, including articles, tutorials, tools, and case studies. These resources provide practical insights and up-to-date information in the field of cybersecurity.
   - [Explore Resources](/resources.md)
