@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is tailored for individuals who are new to computers and cybersecurity. Our goal is to equip you with fundamental knowledge and skills to embark on your cybersecurity journey.
 
-## Module 1: [Introduction to Computers](/learning-paths/absolute-beginner/intro-to-computers.md)
+## Module 1: [Introduction to Computers](/learning-paths/absolute-beginner/intro-to-computers.html)
 
 ### Overview
 - **Objective:** Understand basic computer operations and components.
@@ -16,7 +16,7 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
 - [Introduction to Computers](https://www.computerbasics.com/)
 - [Basic Computer Skills Course](https://www.gcflearnfree.org/computerbasics/)
 
-## Module 2: [Introduction to the Internet](/learning-paths//absolute-beginner/intro-to-internet.md)
+## Module 2: [Introduction to the Internet](/learning-paths/absolute-beginner/intro-to-internet.html)
 
 ### Overview
 - **Objective:** Learn about the internet, web browsing, and basic digital literacy.
@@ -29,7 +29,7 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
 - [Internet 101](https://www.digitalunite.com/technology-guides/internet-basics)
 - [Web Browsing Basics](https://edu.gcfglobal.org/en/internetbasics/)
 
-## Module 3: [Basic Cybersecurity Concepts](/learning-paths/absolute-beginner/intro-cybersecurity-concepts.md)
+## Module 3: [Basic Cybersecurity Concepts](/learning-paths/absolute-beginner/intro-cybersecurity-concepts.html)
 
 ### Overview
 - **Objective:** Grasp fundamental cybersecurity principles and why they are important.
@@ -42,7 +42,7 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
 - [Cybersecurity Basics](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)
 - [Beginner’s Guide to Cybersecurity](https://www.cyberdegrees.org/resources/beginners-guide/)
 
-## Module 4: [Safe Computing Practices](/learning-paths/absolute-beginner/safe-computing-practices.md)
+## Module 4: [Safe Computing Practices](/learning-paths/absolute-beginner/safe-computing-practices.html)
 
 ### Overview
 - **Objective:** Learn best practices for staying safe online.
@@ -55,7 +55,7 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
 - [Safe Online Habits](https://staysafeonline.org/stay-safe-online/)
 - [Password Security Basics](https://www.lastpass.com/password-basics)
 
-## Module 5: [Introduction to Networking](/learning-paths/absolute-beginner/intro-to-networking.md)
+## Module 5: [Introduction to Networking](/learning-paths/absolute-beginner/intro-to-networking.html)
 
 ### Overview
 - **Objective:** Understand basic networking concepts and their role in cybersecurity.
@@ -70,7 +70,7 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
 
 ## Conclusion and Next Steps
 
-Congratulations on completing the Absolute Beginner Learning Path in Cybersecurity! You now have a solid foundation to build upon. We encourage you to explore more advanced topics and continue your learning journey. You are now ready to move on to the next path: [Beginner](/learning-paths/beginner.md)
+Congratulations on completing the Absolute Beginner Learning Path in Cybersecurity! You now have a solid foundation to build upon. We encourage you to explore more advanced topics and continue your learning journey. You are now ready to move on to the next path: [Beginner](/learning-paths/beginner.html)
 
 If you would like to dive deeper into these topics, we suggest learning the material covered by the [CompTIA A+](https://www.comptia.org/certifications/a) and [CompTIA Network+](https://www.comptia.org/certifications/network) exams. These will give you a very solid foundation on the basics and get you prepared to tackle the Security+. (Note: Acquiring these certifications is not mandatory to take/pass the Security+)
 
