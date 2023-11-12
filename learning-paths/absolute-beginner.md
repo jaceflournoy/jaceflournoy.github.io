@@ -12,11 +12,11 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
   - Components of a Computer: CPU, Memory, Storage, Input/Output Devices
   - Basic Software Concepts: Operating Systems, Applications
 
-### External Resources
+### Additional Resources
 - [Introduction to Computers](https://www.computerbasics.com/)
 - [Basic Computer Skills Course](https://www.gcflearnfree.org/computerbasics/)
 
-## Module 2: Introduction to the Internet
+## Module 2: [Introduction to the Internet](/learning-paths//absolute-beginner/intro-to-internet.md)
 
 ### Overview
 - **Objective:** Learn about the internet, web browsing, and basic digital literacy.
@@ -25,11 +25,11 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
   - Web Browsers: What They Are and How to Use Them
   - Internet Safety Basics
 
-### External Resources
+### Additional Resources
 - [Internet 101](https://www.digitalunite.com/technology-guides/internet-basics)
 - [Web Browsing Basics](https://edu.gcfglobal.org/en/internetbasics/)
 
-## Module 3: Basic Cybersecurity Concepts
+## Module 3: [Basic Cybersecurity Concepts](/learning-paths/absolute-beginner/intro-cybersecurity-concepts.md)
 
 ### Overview
 - **Objective:** Grasp fundamental cybersecurity principles and why they are important.
@@ -38,11 +38,11 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
   - Common Cyber Threats and Attacks
   - The Importance of Cybersecurity
 
-### External Resources
+### Additional Resources
 - [Cybersecurity Basics](https://www.kaspersky.com/resource-center/definitions/what-is-cyber-security)
 - [Beginner’s Guide to Cybersecurity](https://www.cyberdegrees.org/resources/beginners-guide/)
 
-## Module 4: Safe Computing Practices
+## Module 4: [Safe Computing Practices](/learning-paths/absolute-beginner/safe-computing-practices.md)
 
 ### Overview
 - **Objective:** Learn best practices for staying safe online.
@@ -51,11 +51,11 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
   - Recognizing and Avoiding Phishing Attacks
   - Keeping Software Updated
 
-### External Resources
+### Additional Resources
 - [Safe Online Habits](https://staysafeonline.org/stay-safe-online/)
 - [Password Security Basics](https://www.lastpass.com/password-basics)
 
-## Module 5: Introduction to Networking
+## Module 5: [Introduction to Networking](/learning-paths/absolute-beginner/intro-to-networking.md)
 
 ### Overview
 - **Objective:** Understand basic networking concepts and their role in cybersecurity.
@@ -64,13 +64,23 @@ Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is ta
   - Types of Networks: LAN, WAN, Internet
   - Basic Networking Devices and their Functions
 
-### External Resources
+### Additional Resources
 - [Networking Basics](https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/networking-basics.html)
 - [Beginner's Guide to Networking](https://www.techopedia.com/2/28228/networks/networking-for-beginners)
 
 ## Conclusion and Next Steps
 
 Congratulations on completing the Absolute Beginner Learning Path in Cybersecurity! You now have a solid foundation to build upon. We encourage you to explore more advanced topics and continue your learning journey.
+
+If you would like to dive deeper into these topics, we suggest learning the material covered by the [CompTIA A+](https://www.comptia.org/certifications/a) and [CompTIA Network+](https://www.comptia.org/certifications/network) exams. These will give you a very solid foundation on the basics and get you prepared to tackle the Security+. (Note: Acquiring these certifications is not mandatory to take/pass the Security+)
+
+### Great training:
+- [Professor Messer's A+ Training](https://www.professormesser.com/free-a-plus-training/220-1102/220-1102-video/220-1102-training-course/)
+
+- [Professor Messer's Network+ Training](https://www.professormesser.com/network-plus/n10-008/n10-008-video/n10-008-training-course/)
+
+Also check out our [resources](/resources.md) page for additional training.
+
 
 ---
 

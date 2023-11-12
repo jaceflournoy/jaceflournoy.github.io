@@ -71,3 +71,5 @@ Computers are dynamic tools that have transformed how we live, work, and interac
 ---
 
 While this guide covers the essentials of what a computer is, exploring each component and technology further will enhance your understanding and appreciation of this incredible invention.
+
+## Continue to Module 2: [Introduction to the Internet](/learning-paths//absolute-beginner/intro-to-internet.md)
