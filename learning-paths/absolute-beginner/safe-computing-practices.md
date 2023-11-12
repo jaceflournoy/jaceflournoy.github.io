@@ -15,6 +15,9 @@ Before delving into safe practices, it's crucial to understand the common threat
 - **Uniqueness:** Avoid using the same password across different accounts.
 - **Password Managers:** Consider using password managers for securely storing and managing your passwords.
 
+#### Additional Resources
+- [Password Security Basics](https://www.lastpass.com/resources/learning/password-101)
+
 ### Regular Software Updates
 - **Patching Vulnerabilities:** Regular updates fix security loopholes in software.
 - **Automating Updates:** Enable automatic updates for your operating system and applications to ensure timely installation.
@@ -26,6 +29,9 @@ Before delving into safe practices, it's crucial to understand the common threat
 ### Avoiding Phishing Attacks
 - **Email Vigilance:** Be cautious with emails from unknown sources and do not click on suspicious links.
 - **Verification:** Verify the authenticity of requests for personal information.
+
+#### Additional Resources
+- [How to Recognize and Avoid Phishing Scams](https://consumer.ftc.gov/articles/how-recognize-and-avoid-phishing-scams)
 
 ### Safe Browsing Habits
 - **Secure Websites:** Look for 'https' in the web address for secure connections.
@@ -45,6 +51,9 @@ Before delving into safe practices, it's crucial to understand the common threat
 
 ### Safe Disposal of Electronic Devices
 - **Data Wiping:** Properly wipe or destroy the hard drives of devices before disposal or recycling.
+
+#### Additional Resources
+- [How to Back Up Your Data: 6 Effective Strategies to Prevent Data Loss](https://www.upguard.com/blog/how-to-back-up-your-data)
 
 ## Educating Yourself and Others
 - **Stay Informed:** Keep up-to-date with the latest cybersecurity trends and threats.
