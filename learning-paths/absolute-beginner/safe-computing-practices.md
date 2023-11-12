@@ -57,4 +57,4 @@ Adopting safe computing practices is vital in safeguarding your digital life. By
 
 While this guide provides a foundation for safe computing, exploring more advanced security measures and technologies will further enhance your digital safety.
 
-## Continue to Module 5: [Introduction to Networking](/learning-paths/absolute-beginner/intro-to-networking.md)
+## Continue to Module 5: [Introduction to Networking](/learning-paths/absolute-beginner/intro-to-networking.html)

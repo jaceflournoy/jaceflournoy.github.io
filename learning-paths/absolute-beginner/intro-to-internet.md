@@ -62,5 +62,5 @@ The Internet is a transformative technology that has reshaped virtually every as
 
 This page provides a foundational understanding of the Internet. To deepen your knowledge, exploring more specialized topics and staying updated with current Internet trends and technologies is recommended.
 
-## Continue to Module 3: [Basic Cybersecurity Concepts](/learning-paths/absolute-beginner/intro-cybersecurity-concepts.md)
+## Continue to Module 3: [Basic Cybersecurity Concepts](/learning-paths/absolute-beginner/intro-cybersecurity-concepts.html)
 

@@ -56,4 +56,4 @@ Understanding basic cybersecurity concepts is essential in today's digital world
 
 While this guide covers the essentials of cybersecurity, delving deeper into specific areas, staying informed about new threats, and adopting best practices will enhance your security posture.
 
-## Continue to Module 4: [Safe Computing Practices](/learning-paths/absolute-beginner/safe-computing-practices.md)
+## Continue to Module 4: [Safe Computing Practices](/learning-paths/absolute-beginner/safe-computing-practices.html)
