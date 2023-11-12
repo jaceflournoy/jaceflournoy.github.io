@@ -14,7 +14,7 @@ Cybersecurity is the practice of protecting systems, networks, and programs from
 - **AI-Powered Attacks:** Utilizing artificial intelligence to conduct more sophisticated cyberattacks.
 - **IoT Vulnerabilities:** As more devices connect to the Internet, the Internet of Things presents new security challenges.
 
-### Additional Resources
+#### Additional Resources
 - [Cybersecurity Threats](https://www.splunk.com/en_us/blog/learn/cybersecurity-threats.html)
 
 
@@ -24,7 +24,7 @@ Cybersecurity is the practice of protecting systems, networks, and programs from
 - **Integrity:** Maintaining the consistency, accuracy, and trustworthiness of data over its lifecycle.
 - **Availability:** Ensuring that information is accessible to authorized users when needed.
 
-### Additional Resources
+#### Additional Resources
 - [What is the CIA Triad and why is it important?](https://www.fortinet.com/resources/cyberglossary/cia-triad)
 
 

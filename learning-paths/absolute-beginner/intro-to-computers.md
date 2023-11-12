@@ -13,7 +13,7 @@ A computer is a versatile electronic device that receives, processes, and output
 - **1960s-1970s:** The era of mainframe computers, used by large organizations for complex computations.
 - **1980s-Present:** The advent of personal computers (PCs), and the exponential growth of computing power, leading to the laptops, tablets, and smartphones we use today.
 
-### Additional Resources
+#### Additional Resources
 - [History of Computing](https://www.britannica.com/technology/computer/History-of-computing)
 
 ## Basic Components of a Computer
@@ -36,7 +36,7 @@ A computer is a versatile electronic device that receives, processes, and output
 ### Motherboard
 - **Role:** The central hub connecting all components, facilitating communication between the CPU, RAM, storage, and other peripherals.
 
-### Additional Resources
+#### Additional Resources
 - [How does a CPU Work?](https://www.freecodecamp.org/news/how-does-a-cpu-work/)
 - [What Is Computer and Laptop RAM?](https://www.intel.com/content/www/us/en/tech-tips-and-tricks/computer-ram.html#:~:text=RAM%20provides%20the%20shorter%2Dterm,experience%20when%20using%20your%20device.)
 - [How RAM works](https://computer.howstuffworks.com/ram.htm)
@@ -64,7 +64,7 @@ A computer is a versatile electronic device that receives, processes, and output
 - **Linux:** An open-source alternative known for its security and flexibility.
 - **Mobile Operating Systems:** iOS and Android dominate the smartphone market.
 
-### Additional Resources
+#### Additional Resources
 - [Understanding Operating Systems](https://www.uow.edu.au/student/learning-co-op/technology-and-software/operating-systems/#:~:text=The%20operating%20system%20(OS)%20manages,as%20disk%20drives%20and%20printers.)
 
 ## Applications of Computers
