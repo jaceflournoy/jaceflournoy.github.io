@@ -32,6 +32,6 @@ New to the site? Here's how to begin:
 
 ### Connect with Us
 
-Have questions or need guidance? Reach out to us Discord.
+Have questions or need guidance? Reach out to us on Discord.
 
 - [Join the Discord](https://discord.gg/e8DVGwACn8)
