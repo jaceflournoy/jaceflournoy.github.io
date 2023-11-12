@@ -11,6 +11,9 @@ The Internet is a global network of computers connected to each other, allowing 
 ### The World Wide Web
 - **Invention:** Tim Berners-Lee invented the World Wide Web in 1989, introducing web browsers and HTML, making the Internet more user-friendly.
 
+### Additional Resources
+- [History of the Internet](https://www.internetsociety.org/internet/history-internet/?gclid=Cj0KCQiAjMKqBhCgARIsAPDgWlwKxsp4bWpqXyMZ5ImhNWKuvdXqpGY0Q0S4n82-vN_LxZzcj1S07M4aAt1xEALw_wcB)
+
 ## How the Internet Works
 ### Basic Principles
 - **Data Transmission:** The Internet transmits data using a protocol called TCP/IP (Transmission Control Protocol/Internet Protocol).
@@ -19,6 +22,9 @@ The Internet is a global network of computers connected to each other, allowing 
 ### Connecting to the Internet
 - **ISP:** Internet Service Providers (ISPs) offer access to the Internet through various technologies like DSL, cable, fiber optics, or satellite.
 - **Routers and Modems:** Devices that connect your home network to your ISP, allowing multiple devices to access the Internet.
+
+### Additional Resources
+- [How does the internet work?](https://www.cloudflare.com/learning/network-layer/how-does-the-internet-work/)
 
 ## Key Components of the Internet
 ### Websites and Applications
@@ -33,14 +39,23 @@ The Internet is a global network of computers connected to each other, allowing 
 - **Definition:** Storing and accessing data and applications over the Internet instead of on a local computer.
 - **Services:** Include storage solutions (like Google Drive), software as a service (SaaS) applications, and more.
 
+### Additional Resources
+- [What is Cloud Computing?](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing)
+
 ## Internet Safety and Security
 ### Understanding Cyber Threats
 - **Malware:** Malicious software designed to damage or disrupt systems.
 - **Phishing:** Attempts to acquire sensitive information through deceptive emails or websites.
 
+### Additional Resources
+- [Cybersecurity Threats](https://www.splunk.com/en_us/blog/learn/cybersecurity-threats.html)
+
 ### Safe Internet Practices
 - **Strong Passwords:** Creating complex and unique passwords for different online accounts.
 - **Software Updates:** Keeping software and operating systems up to date to protect against vulnerabilities.
+
+### Additional Resources
+- [Top 10 Internet Safety Rules](https://usa.kaspersky.com/resource-center/preemptive-safety/top-10-internet-safety-rules-and-what-not-to-do-online)
 
 ## The Impact of the Internet on Society
 ### Communication Revolution
