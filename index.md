@@ -12,9 +12,9 @@ We're a team of experienced cybersecurity professionals passionate about sharing
 ### What You'll Find Here
 
 - **In-Depth Learning Paths**: Customized learning paths to guide your educational journey. From foundational concepts to advanced techniques, we cover it all.
-  - [Beginner's Path](/beginner.md): Start your journey here if you're new to computers and cybersecurity.
-  - [Intermediate Path](/intermediate.md): Enhance your skills and knowledge if you have some background in IT or cybersecurity.
-  - [Advanced Path](/advanced.md): Dive deeper into specialized areas of cybersecurity.
+  - [Beginner's Path](/learning-paths/beginner.md): Start your journey here if you're new to computers and cybersecurity.
+  - [Intermediate Path](/learning-paths/intermediate.md): Enhance your skills and knowledge if you have some background in IT or cybersecurity.
+  - [Advanced Path](/learning-paths/advanced.md): Dive deeper into specialized areas of cybersecurity.
 
 - **Extensive Resource Library**: A curated collection of resources, including articles, tutorials, tools, and case studies. These resources provide practical insights and up-to-date information in the field of cybersecurity.
   - [Explore Resources](/resources.md)
@@ -34,16 +34,8 @@ New to the site? Here's how to begin:
 3. **Engage with the Community**: Connect with fellow learners and mentors to enhance your learning experience.
 4. **Apply Your Knowledge**: Practice your skills through real-world scenarios and challenges provided in our resources.
 
-### Stay Updated
-
-Cybersecurity is an ever-evolving field, and staying updated is key. Join our newsletter for the latest updates, tips, and insights.
-
-- [Subscribe to Our Newsletter](/newsletter.md)
-
 ### Connect with Us
 
 Have questions or need guidance? Reach out to us on social media or via our contact page.
 
-- [Contact Us](/contact.md)
-- [Follow us on Twitter](https://twitter.com/yourtwitterhandle)
-- [Connect on LinkedIn](https://linkedin.com/in/yourlinkedinprofile)
+- [Join the Discord](https://discord.gg/e8DVGwACn8)
