@@ -14,11 +14,19 @@ Cybersecurity is the practice of protecting systems, networks, and programs from
 - **AI-Powered Attacks:** Utilizing artificial intelligence to conduct more sophisticated cyberattacks.
 - **IoT Vulnerabilities:** As more devices connect to the Internet, the Internet of Things presents new security challenges.
 
+### Additional Resources
+- [Cybersecurity Threats](https://www.splunk.com/en_us/blog/learn/cybersecurity-threats.html)
+
+
 ## Cybersecurity Principles
 ### Confidentiality, Integrity, and Availability (CIA)
 - **Confidentiality:** Ensuring that information is not accessed by unauthorized individuals.
 - **Integrity:** Maintaining the consistency, accuracy, and trustworthiness of data over its lifecycle.
 - **Availability:** Ensuring that information is accessible to authorized users when needed.
+
+### Additional Resources
+- [What is the CIA Triad and why is it important?](https://www.fortinet.com/resources/cyberglossary/cia-triad)
+
 
 ### Risk Management
 - **Assessment:** Identifying the risks that an organization faces.
