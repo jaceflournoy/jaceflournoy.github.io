@@ -1,5 +1,6 @@
-# [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
-
+## [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
+<br />
+<br />
 
 # Absolute Beginner's Path to Cybersecurity
 

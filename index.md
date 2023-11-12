@@ -1,5 +1,5 @@
 
-# [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
+## [Home](/index.md) | [Resources](/resources.md) | [Learning Paths](/learning-paths.md)
 <br />
 <br />
 ## Empowering Your Cybersecurity Journey
