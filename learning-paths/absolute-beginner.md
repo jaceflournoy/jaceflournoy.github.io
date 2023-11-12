@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to the Absolute Beginner Learning Path in Cybersecurity! This path is tailored for individuals who are new to computers and cybersecurity. Our goal is to equip you with fundamental knowledge and skills to embark on your cybersecurity journey.
 
-## Module 1: [Introduction to Computers](/absolute-beginner/intro-to-computers.md)
+## Module 1: [Introduction to Computers](/learning-paths/absolute-beginner/intro-to-computers.md)
 
 ### Overview
 - **Objective:** Understand basic computer operations and components.
